@@ -23,12 +23,15 @@ Accédez au dossier du projet : cd snake-game Ouvrez le fichier Jeu serpent.html
 Mangez la pomme pour augmenter votre score. Évitez de heurter les murs ou votre propre queue. Essayez de battre votre meilleur score !
 
 ## Contributeurs:
-*Darace Jéhu Wildjy* 		    - Développeur backend
--Daniel Jean Ricolson*		  -  Designer
--Leconte Romney Ed Findley	- Développeur frontend
--Ambroise Cédric 		        - Développeur backend
+**Darace Jéhu Wildjy** 		    - Développeur backend
 
-Remerciements
+**Daniel Jean Ricolson**		  -  Designer
+
+**Leconte Romney Ed Findley**	- Développeur frontend
+
+**Ambroise Cédric** 		      - Développeur backend
+
+##Remerciements
 Merci à tous ceux qui soutiennent ce projet ! Inspiré du jeu Snake classique. 
 
 ## Licence
