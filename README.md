@@ -42,7 +42,7 @@ Mangez la pomme pour augmenter votre score. Évitez de heurter les murs ou votre
 
 **Ambroise Cédric** 		      - Développeur backend
 
-##Remerciements
+## Remerciements
 Merci à tous ceux qui soutiennent ce projet ! Inspiré du jeu Snake classique. 
 
 ## Licence
