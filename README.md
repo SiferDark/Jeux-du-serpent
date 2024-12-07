@@ -31,7 +31,9 @@ Un jeu classique Snake développé en JavaScript, HTML5 Canvas, et CSS3. Ce proj
 
 ## Objectif du jeu:
 -Contrôlez le serpent à l'aide des touches fléchées. 
-Mangez la pomme pour augmenter votre score. Évitez de heurter les murs ou votre propre queue. Essayez de battre votre meilleur score !
+Mangez la pomme pour augmenter votre score. 
+
+-Évitez de heurter les murs ou votre propre queue. Essayez de battre votre meilleur score !
 
 ## Contributeurs:
 **Darace Jéhu Wildjy** 		    - Développeur backend
